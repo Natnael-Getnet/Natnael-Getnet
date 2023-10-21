@@ -29,4 +29,4 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg"" alt="Laravel" width="100" height="40"/> </a> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=natnael-getnet&show_icons=true&locale=en" alt="natnael-getnet" /></p>
+<p>&nbsp;<img align="center" src="https://camo.github-readme-stats.vercel.app/api?username=natnael-getnet&show_icons=true&locale=en" alt="natnael-getnet" /></p>
